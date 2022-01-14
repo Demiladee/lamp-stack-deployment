@@ -69,5 +69,23 @@ installing 3 PHP packages - *PHP, Libapache2-mod-php & Php-mysql*
 
 ` $ sudo apt install php libapache2-mod-php php-mysql`
 
-![](installingphp11.png)
+![](images/installingphp11.png)
+
+confirming php version
+
+` $ php -v`
+
+![](images/php-v12.png)
+
+**LAMP Stack is installed and operational**
+
+### Creating a virtual host for my website using Apache2
+
+creating a directory for projectlamp
+
+` $ sudo mkdir /var/www/projectlamp`
+
+assigning ownership of the directory with my current system user
+
+` $  sudo chown -R $USER:$USER /var/www/projectlamp`
 

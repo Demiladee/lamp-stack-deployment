@@ -1,2 +1,2 @@
-# Demilade-Project1
-DevOps Project1 - Deploying a LAMP Stack
+# DevOps Project1
+## LAMP STACK IMPLEMENTATION
