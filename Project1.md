@@ -7,5 +7,8 @@ updating a list of packages in package manager
 
 `$ sudo apt update`
 
-![screenshot](images/final 20.png)
+![](images/sudo apt update 1.png)
+
+
+
 
