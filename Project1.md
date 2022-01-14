@@ -57,3 +57,17 @@ securing sql installation
 
 ![](images/mysqlsecureinstallation9.png)
 
+logging into mysql server
+
+` $ sudo mysql`
+
+![](images/sudomysql10.png)
+
+**Installing PHP**
+
+installing 3 PHP packages - *PHP, Libapache2-mod-php & Php-mysql*
+
+` $ sudo apt install php libapache2-mod-php php-mysql`
+
+![](installingphp11.png)
+
