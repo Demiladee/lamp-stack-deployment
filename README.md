@@ -1,1 +1,1 @@
-# lamp-stack-implementation
+# lamp-stack-deployment
