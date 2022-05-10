@@ -1,2 +1,1 @@
-# DevOps Project1
-## LAMP STACK IMPLEMENTATION
+# lamp-stack-implementation
